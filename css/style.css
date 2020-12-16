@@ -123,6 +123,7 @@ body {
   box-sizing: border-box;
   margin: auto;
   padding: 30px 10px 55px 10px;
+  overflow: hidden;
 }
 
 .container-left {
