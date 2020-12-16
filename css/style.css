@@ -1244,6 +1244,7 @@ body {
 @media only screen and (min-width: 1000px) {
   .container {
     max-width: var(--desktop-lg);
+    overflow: hidden;
   }
   .tablet-element {
     display: none  !important;
